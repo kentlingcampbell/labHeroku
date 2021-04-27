@@ -1,0 +1,10 @@
+jupyter
+pandas
+matplotlib 
+seaborn
+sklearn
+Flask
+requests
+numpy
+python-dotenv
+gunicorn
